@@ -1,0 +1,28 @@
+.container {
+  position: relative;
+  top: 100px;
+  margin-bottom: 10px;
+  text-align: center;
+  /* background-color: red; */
+}
+
+.todo-add {
+  width: 500px;
+  height: 50px;
+  background-color: rosybrown;
+  border-radius: 26px;
+  outline: none;
+  border: none;
+  font-size: 24px;
+  padding: 4px;
+  color: white;
+}
+
+.todo-items {
+  position: relative;
+  padding: 0px;
+}
+
+.delete-btn {
+  position: unset;
+}
